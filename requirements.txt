@@ -1,0 +1,3 @@
+colorclip
+tgsdl
+pyTelegramBotAPI
